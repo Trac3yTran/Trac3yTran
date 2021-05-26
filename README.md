@@ -8,7 +8,7 @@ About Me:
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on front-end projects
-- 📫 How to reach me: [Email](mailto:tran.tracey90@gmail.com), or find me on [Twitter](https://twitter.com/traceytdev) and [Linkedin](https://www.linkedin.com/in/tracey-t-b0693415b/)!
+- 📫 How to reach me: [Twitter](https://twitter.com/traceytdev) and [Linkedin](https://www.linkedin.com/in/tracey-t-b0693415b/)!
 
 
 Languages:
