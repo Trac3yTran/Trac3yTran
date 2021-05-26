@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Tracey 👋
 
-<!--
-**Trac3yTran/Trac3yTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A career changer from finance to Software Development 
+Passionate about building functional web applications 
+
+
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on Front-end projects
+- 📫 How to reach me: <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
