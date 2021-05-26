@@ -3,7 +3,7 @@
 
 About Me:
 
-- 🧮  A career changer from finance to Software Development 
+- 🧮 A career changer from Finance to Software Development 
 - 👩‍💻 Passionate about building functional web applications 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning MERN stack
