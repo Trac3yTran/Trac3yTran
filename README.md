@@ -23,5 +23,3 @@ Languages:
 ![](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white&style=flat)
 
 
-[![Tracey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trac3yTran&theme=algolia&show_icons=true)](https://github.com/Trac3yTran/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trac3yTran&layout=compact&theme=algolia)](https://github.com/Trac3yTran/github-readme-stats)
